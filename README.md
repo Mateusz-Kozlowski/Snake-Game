@@ -12,7 +12,7 @@ In PLAY module you can change the snake direction using arrows or wsad keyboard 
 
 If you want to pause or unpause (in both PLAY and FAKE AI modules) you have to press Esc keyboard key.
 
-After changing settings remember to press APPLY button. If you don't want to save changes simply back to the menu without pressing APPLY button.
+After changing settings remember to press an APPLY button. If you don't want to save changes, simply quit the settings state without pressing the APPLY button.
 
 ![start](Screenshots//start.png)
 ![game](Screenshots//game.png)
