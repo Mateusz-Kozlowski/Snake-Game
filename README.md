@@ -7,6 +7,7 @@ The project includes 3 modules:
 * SETTINGS
 
 In the FAKE AI module the Snake moves along a fixed path. I generate the path in other program using some graphs algorithms.
+
 ![start](Screenshots//start.png)
 ![game](Screenshots//game.png)
 ![game_pause](Screenshots//game_pause.png)
