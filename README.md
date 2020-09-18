@@ -9,6 +9,7 @@ The project includes 3 modules:
 In the FAKE AI module the Snake moves along a fixed path. I generate the path in other program using some graphs algorithms.
 
 In PLAY module you can change the snake direction using arrows or wsad keyboard keys.
+
 If you want to pause or unpause (in both PLAY and FAKE AI modules) you have to press Esc keyboard key.
 
 After changing settings remember to press APPLY button. If you don't want to save changes simply back to the menu without pressing APPLY button.
