@@ -1,3 +1,5 @@
+-> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://drive.google.com/file/d/1AUq5HGM_vGRmZRU2HOHWQZS6_72ko7sT/view?usp=sharing) <-
+
 # Snake-Game
 
 # Project Description:
@@ -21,8 +23,6 @@ After changing settings remember to press an APPLY button. If you don't want to 
 ![fake_ai_puase](Screenshots//fake_ai_pause.png)
 ![fake_ai_end](Screenshots//fake_ai_end.png)
 ![settings](Screenshots//settings.png)
-
--> [Link to a video showing how the program exactly works](https://drive.google.com/file/d/1AUq5HGM_vGRmZRU2HOHWQZS6_72ko7sT/view?usp=sharing) <-
 
 # How to install:
 If you're familiar with git you can clone the repo. Otherwise you can simply download whole project as a compressed folder.
