@@ -1,4 +1,4 @@
--> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://drive.google.com/file/d/1AUq5HGM_vGRmZRU2HOHWQZS6_72ko7sT/view?usp=sharing) <-
+-> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://youtu.be/ls-QSU1olGA) <-
 
 # Snake-Game
 
