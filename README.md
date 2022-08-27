@@ -1,3 +1,5 @@
+![output_frame](Screenshots/game_pause.png)
+
 -> [LINK TO A VIDEO SHOWING HOW THE PROGRAM EXACTLY WORKS](https://youtu.be/ls-QSU1olGA) <-
 
 # Snake-Game
